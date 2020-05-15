@@ -4,3 +4,6 @@ This Repository contains my answers to Probabilistic Graphical Model assignments
 Professor: [Dr. Ahmad Nickabadi](https://ce.aut.ac.ir/~nikabadi/)
 
 Year: 2016-2017, Spring Semester
+
+- Assignment 1: Markov Random Field
+- Assignment 2: 
