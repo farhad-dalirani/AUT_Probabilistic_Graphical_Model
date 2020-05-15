@@ -6,4 +6,4 @@ Professor: [Dr. Ahmad Nickabadi](https://ce.aut.ac.ir/~nikabadi/)
 Year: 2016-2017, Spring Semester
 
 - Assignment 1: Markov Random Field
-- Assignment 2: 
+- Assignment 2: Learning and Inference of Latent Dirichlet Allocation
